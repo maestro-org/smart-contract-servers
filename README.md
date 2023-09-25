@@ -1,1 +1,1 @@
-# smart-contract-backends
+# Smart Contract Servers
