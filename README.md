@@ -26,4 +26,17 @@ Maestro's [Managed Contracts API](https://docs.gomaestro.org/docs/ManagedContrac
 
 This repository is reponsible for housing off-chain servers that interact with the smart contracts. They are meant as a starting point for those wishing to securely integrate managed contracts from Maestro's smart contract marketplace into their applications.
 
+# Usage
+
+If you're running an off-chain server that queries the Maestro provider, go ahead and generate a [free API key](https://docs.gomaestro.org/docs/Getting-started/Sign-up-login).
+
 # Contributing
+
+Feel free to add off-chain servers in any language or framework! Please include the following as part of your contribution:
+
+* Self-contained code for running the off-chain server
+* README with instructions on how to install and run the server
+
+---
+
+Meastro welcomes all contributors! Please see our [contributing guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
