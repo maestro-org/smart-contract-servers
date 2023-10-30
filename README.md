@@ -24,7 +24,7 @@
 
 Maestro's [Managed Contracts API](https://docs.gomaestro.org/docs/ManagedContracts/Introduction) offers developer-friendly endpoints for ready-to-deploy smart contracts. The fully managed service aims to improve developer experience and bootstrap Dapp development on Cardano.
 
-This repository is reponsible for housing off-chain servers that interact with the smart contracts. They are meant as a starting point for those wishing to securely integrate managed contracts from Maestro's smart contract marketplace into their applications.
+This repository is reponsible for housing example servers that interact with smart contracts in Maestro's [Smart Contracts Marketplace](https://www.gomaestro.org/smart-contracts).
 
 # Usage
 
